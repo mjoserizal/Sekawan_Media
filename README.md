@@ -37,6 +37,9 @@ Masuk ke folder dengan perintah
 ```
 
 #### Login
-
+//Admin
 -   email = admin@admin.com
+-   password = 123
+//Approval
+-   email = approval@approval.com
 -   password = 123
